@@ -80,7 +80,7 @@ p {
 .okpa h1 {
     font-weight: 800;
     font-size: 2rem;
-    width: 70%;
+    width: 67%;
 }
 
 .eva {
@@ -100,6 +100,8 @@ p {
     height: 40px;
     border: none;
     margin-right: 50%;
+    letter-spacing: .2rem;
+    font-weight: 700;
 }
 
 .eva button:hover {
@@ -128,7 +130,7 @@ p {
 }
 
 .show div {
-    padding: 20px 0px ;
+    padding: 5px 0px ;
 }
 
 .show h4 {
